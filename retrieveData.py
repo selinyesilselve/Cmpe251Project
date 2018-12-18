@@ -3,7 +3,7 @@
 """
 Created on Wed Nov 28 14:34:47 2018
 
-@author: ekinsilahlioglu
+@author: ekinsilahlioglu,selinyesilselve,kadirakgul
 """
 
 # Fetching data(commments) from Eksisozluk using Beautiful Soup
