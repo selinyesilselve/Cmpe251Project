@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 28 14:34:47 2018
-
-@author: ekinsilahlioglu,selinyesilselve,kadirakgul
-"""
 
 # Fetching data(commments) from Eksisozluk using Beautiful Soup
 import requests
